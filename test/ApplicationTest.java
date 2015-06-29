@@ -29,6 +29,7 @@ public class ApplicationTest {
 
     @Test
     public void simpleCheck() {
+    	// test
         int a = 1 + 1;
         assertThat(a).isEqualTo(2);
     }
